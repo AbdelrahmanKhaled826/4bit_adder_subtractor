@@ -1,5 +1,0 @@
-set -tmpdir "C:/digital_desgin_examples/adder_and_suptractor/xst/projnav.tmp"
-set -xsthdpdir "C:/digital_desgin_examples/adder_and_suptractor/xst"
-elaborate
--ifn adder_subtractor.prj
--ifmt mixed
