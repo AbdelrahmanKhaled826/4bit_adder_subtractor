@@ -1,0 +1,3 @@
+xst -intstyle ise -filter "C:/digital_desgin_examples/adder_and_suptractor/iseconfig/filter.filter" -ifn "C:/digital_desgin_examples/adder_and_suptractor/adder_subtractor.xst" -ofn "C:/digital_desgin_examples/adder_and_suptractor/adder_subtractor.syr" 
+xst -intstyle ise -filter "C:/digital_desgin_examples/adder_and_suptractor/iseconfig/filter.filter" -ifn "C:/digital_desgin_examples/adder_and_suptractor/adder_subtractor.xst" -ofn "C:/digital_desgin_examples/adder_and_suptractor/adder_subtractor.syr" 
+xst -intstyle ise -filter "C:/digital_desgin_examples/adder_and_suptractor/iseconfig/filter.filter" -ifn "C:/digital_desgin_examples/adder_and_suptractor/adder_subtractor.xst" -ofn "C:/digital_desgin_examples/adder_and_suptractor/adder_subtractor.syr" 
